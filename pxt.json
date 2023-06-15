@@ -1,11 +1,12 @@
 {
-    "name": "maqueen",
+    "name": "actividad-7.1",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2"
     },
     "files": [
         "README.md",
